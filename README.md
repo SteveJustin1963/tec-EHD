@@ -1,7 +1,7 @@
 # tec-EHD
 tec1 experiments in Electrohydrodynamics
 
-Back in 1979 this was a year 11 science project I submitted at Ashfield Boys High. A simple machine to push ionized steam thru a reverse polarity grid, this causes a current to flow, between the collector plate and ground, that is past the reverse polarity grid. In other words turn steam into a direct current with no moving parts. The ions have to do work to overcome the same polarity; they are push thru by the steam pressure.
+Back in 1979 this was my year 11 science project I submitted at Ashfield Boys High. A simple machine to push ionized steam thru a reverse polarity grid, this causes a current to flow, between the collector plate and ground, that is past the reverse polarity grid. In other words turn steam into a direct current with no moving parts. The ions have to do work to overcome the same polarity; they are push thru by the steam pressure.
 
 ![](https://github.com/SteveJustin1963/tec-EHD/blob/main/pics/11.png)
 
